@@ -1,1 +1,0 @@
-This is just some file to be deleted.
